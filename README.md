@@ -1,7 +1,7 @@
-# NLP--ML
+# Natural Language Processing (NLP)
 
-## Topics Covered:
-
+## ML-NLP
+```
 1) Tokenizing sentences
 2) Tokenizing words
 3) Stemming
@@ -12,3 +12,4 @@
 8) TextBlob
 9) Texthero
 10) EvalML
+```
